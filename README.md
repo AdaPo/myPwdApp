@@ -1,3 +1,5 @@
+# myPwdApp
+
 This is a password manager app that stores users passwords. It uses Firebase for authentication and Firebase Firestore.
 It also uses Apples CryptoKit to encrypt and decrypt passwords that are being sent to Firestore. However, this funcionality is 
 not fully implemented yet. 
